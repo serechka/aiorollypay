@@ -1,3 +1,3 @@
 module github.com/serechka/aiorollypay
 
-go 1.22
+go 1.27.2
